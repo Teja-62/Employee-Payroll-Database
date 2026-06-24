@@ -1,10 +1,10 @@
 # Employee Payroll Database System
 
 ## Intern Information
-- **Name:** BONDADA GAUTHAM SAI
-- **Intern ID:** CITS1588
+- **Name:** GUNNA HIMATEJA
+- **Intern ID:** CITS2525
 
-## Project Overview
+## Project Overview 
 The Employee Payroll Database System is a simple SQL-based project designed to manage employee records, departments, and salary information. It demonstrates fundamental database concepts and SQL operations.
 
 ## Objective
@@ -85,5 +85,5 @@ This project provides a basic understanding of employee payroll management using
 ---
 
 ### Submitted By
-**BONDADA GAUTHAM SAI**  
-**Intern ID: CITS1588**
+**GUNNA HIMATEJA**  
+**Intern ID: CITS2525**
